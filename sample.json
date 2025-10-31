@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "Smartphone",
+      "name": "Samsung Galaxy S20",
+      "description": "Used phone"
+    },
+    {
+      "id": "Tablet",
+      "name": "iPad Mini",
+      "description": "Apple tablet, 128GB"
+    },
+    {
+      "id": "Console",
+      "name": "PlayStation 5",
+      "description": "New console"
+    }
+  ]
+}
